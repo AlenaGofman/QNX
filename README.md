@@ -25,4 +25,6 @@ The *QNX RTOS* is a **real-time system**, it is a *Posix* compatible *UNIX* syst
 
 #### The following video shows an example of creating a thread when transferring server data to a client, the example expands the concepts of creating a thread and allows you to use it when transferring multi-threaded information:
 
-![QNX](https://user-images.githubusercontent.com/15179165/219965186-38966945-d2ad-4362-936e-48f7cc9e31a6.mp4)
+
+https://user-images.githubusercontent.com/15179165/219965588-11c41129-0616-4b4b-988e-0e23da0b3d54.mp4
+
